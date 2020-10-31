@@ -1,0 +1,12 @@
+{
+	"TIKA_URL" : "http://themiraclesoft.iptime.org:9999/",
+	"FILE_SAVE_ROOT": "/home/study/jupyter/files_share/",
+	"FILE_SAVE_PATH": "/home/study/jupyter/files_share/files_upload/excel/",
+	"WEB_SERVICE_URL" : "http:60.100.99.217:81",
+
+	"MSSQL_SERVER" : "themiraclesoft.iptime.org",
+	"MSSQL_PORT" : "1533",
+	"MSSQL_DB" : "PDF_PARSING",
+	"MSSQL_USER" : "PDF_USER",
+	"MSSQL_PASSWD" : "miracle2020!"
+}
